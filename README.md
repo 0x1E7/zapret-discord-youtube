@@ -1,7 +1,7 @@
-# Zapret (обход блокировки Discord'а и Youtube'а)
+# Zapret Amazon + Cloudflare Gaming Fork (thanks flowseal, V3nilla, Dronatar)
 
 > [!NOTE]  
-> Данный форк - собран из [репозитория](https://github.com/Flowseal/zapret-discord-youtube), дополнен темой из issues by [V3nilla](https://github.com/Flowseal/zapret-discord-youtube/issues/3265). 
+> Данный форк - собран из [репозитория](https://github.com/Flowseal/zapret-discord-youtube), дополнен темой из issues by [V3nilla](https://github.com/Flowseal/zapret-discord-youtube/issues/3265).
 >
 > Этот форк помогает разблокировать множество сайтов и игры, которые используют cloudflare или amazon серверы.
 >
